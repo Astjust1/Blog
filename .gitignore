@@ -1,7 +1,7 @@
 *.lock
 *~
-/ignore
-/_site
+ignore/
+_site/
 # OS generated files #
 ######################
 .DS_Store
