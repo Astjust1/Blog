@@ -7,6 +7,7 @@ show: true
 ---
    
 This is more or less a test post to try and see if I understand how this works.
+
 Hi
 
 Welcome to my life though!
