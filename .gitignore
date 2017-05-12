@@ -1,5 +1,6 @@
 *.lock
 *~
+/ignore
 
 # OS generated files #
 ######################
