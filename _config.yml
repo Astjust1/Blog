@@ -1,0 +1,31 @@
+title: Armond St.Juste
+description: A personal history of my adventures
+author: Armond St.Juste
+logo: /static/img/avatar.png
+github: 
+about: Software Developer/Barista -- Lover of Life
+
+baseurl: 
+url: 
+
+disqus_shortname: 
+google_analytics: 
+
+social:
+  twiiter_url: "https://twitter.com/itsjustearmond"
+  instagram_url: "https://instagram.com/ItsJusteArmond"
+  linkedin_url: "https://www.linkedin.com/in/armond-st-juste-4285b58a"
+
+share:
+  twitter_username: itsjustearmond
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]
