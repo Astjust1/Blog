@@ -20,7 +20,7 @@ before_script:
 - npm install -g firebase-tools
 
 script:
-- bundle exec jekyll build && htmlproofer ./_site
+- bundle exec jekyll build
 
 after_script:
 - firebase deploy --token $FIREBASE_TOKEN
