@@ -2,7 +2,7 @@
 layout: post
 title: "My Personal Site"
 date: 2017-05-17
-categories: Jekyll WebDev
+categories: jekyll webDev
 show: true
 ---
 
