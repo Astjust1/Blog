@@ -2,14 +2,14 @@
 	{
 		"name": "This Site!",
 		"image": "placeholder.jpg",
-		"url": "#",
+		"url": "https://itsjustearmond.me",
 		"date": "May 2017",
-		"tags": ["Jekyll","Material Design", "Bootstrap", "Travis CI"]
+		"tags": ["Jekyll","Material Design", "Travis CI"]
 	},
 	{
 		"name": "Car Maintenance app(WIP)",
 		"image": "placeholder.jpg",
-		"url": "#",
+		"url": "https://github.com/Astjust1/Car_Maintenance",
 		"date": "May 2017",
 		"tags": ["iOS","Swift"]
 	},
