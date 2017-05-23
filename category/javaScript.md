@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: javaScript webDev
+categories: javaScript 
 title: JavaScript
 permalink: /category/javaScript
 ---
