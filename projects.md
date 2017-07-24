@@ -5,4 +5,3 @@ permalink: /projects/
 ---
 
 Few of my projects.
-Editor Test
