@@ -27,9 +27,11 @@ title: Blog
     {% if paginator.total_pages > 1 %}
     <ul class="pager">
       {% if paginator.previous_page %}
+      {% if paginator.previous_page.show == true %}
         <li class="previous">
           <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a>
         </li>
+      {% endif %}
       {% else %}
         <li class="previous disabled"><span aria-hidden="true">&laquo;</span></li>
       {% endif %}

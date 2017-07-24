@@ -14,6 +14,7 @@ layout: default
     {% for tag in post.categories %}
         {% for thisTag in page.categories %}
             {% if postHasSimilar == false and hasSimilar.size < 6 and post != page and tag == thisTag %}
+            {% if post.show == true %}
                 {% if hasSimilar.size == 0 %}
                 <div class="panel-body">
                 <h4>Related Posts</h4>
@@ -27,6 +28,7 @@ layout: default
                 </li>
                 {% capture hasSimilar %}{{ hasSimilar }}*{% endcapture %}
                 {% assign postHasSimilar = true %}
+                {% endif %}
             {% endif %}
         {% endfor %}
     {% endfor %}
@@ -36,6 +38,7 @@ layout: default
     </div>
 {% endif %}
 
+<!--
 <div class="PageNavigation">
   {% if page.previous.url %}
     <a class="prev pull-left" href="{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
@@ -45,7 +48,7 @@ layout: default
   {% endif %}
 </div>
 
-
+-->
 <div class="disqus-comments">
     <div id="disqus_thread"></div>
     <script type="text/javascript">
