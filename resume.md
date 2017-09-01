@@ -11,13 +11,13 @@ Email: astjuste423@gmail.com
 Tel: 516-640-8416
 
 
-Armond is a recent college graduate, with a Bachelor of Science in Computer Science. While currently working as a barista at a Barnes and Noble cafe. He also enjoys playing soccer with friends and finding new technology to get his hands on. Currently he is using Jekyll, Firebase and TravisCI to set up a blog, and is planning to use node and express to automate the posting process.
+Software Developer and recent college graduate, with a Bachelor's of Science in Computer Science and 1 year of experience in the industry, mostly as a web developer. Currently working on building a software service to help make mental health services more accesible. When not working with technology, time is either spent exercising or digesting a good book. Please feel free to look at his github: https://github.com/astjust1.
 
 ## SKILLS
 
-  - Web: JavaScript HTML 5 CSS REST 
-  - JavaScript: Node.js Express.js jQuery Bootstrap React.js 
-  - Mobile: iOS Android React Native 
+  - Mobile: iOS Swift Objective-C Android React Native 
+  - Back End: NodeJS ExpressJS PostgresSQL Headless-Architecture Sequelize 
+  - Front End: HTML CSS Javascript Bootstrap AJAX JQuery 
 
 ## EMPLOYMENT
 
@@ -28,13 +28,6 @@ SonarCloud leverages the power of technology to modernize PA systems
   - Supported the CTO and CEO on client installations
   - Developed an internal client management system to increase installation prodictivity by 50%
   - Participated in meetings to discuss product direction
-
-### *Cafe Server/Barista*, Barnes and Noble (2016-08 — Present)
-
-Work with a team of other baristas to ensure a positive customer experience
-  - Concocted new drinks that brought in an extra $100 in sales within 2 hours
-  - Taught and supervised new hires while they got acclimated to the store
-  - Received employee for the week for taking on supervisory responsibilities
 
 ### *Software Development Intern*, Binghamton University Libraries (2015-11 — 2016-05)
 
