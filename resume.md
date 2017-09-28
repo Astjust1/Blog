@@ -9,42 +9,44 @@ Armond St.Juste
 ============
 Email: astjuste423@gmail.com
 Tel: 516-640-8416
+Web: https://itsjustearmond.me
 
-
-Software Developer and recent college graduate, with a Bachelor's of Science in Computer Science and 1 year of experience in the industry, mostly as a web developer. Currently working on building a software service to help make mental health services more accesible. When not working with technology, time is either spent exercising or digesting a good book. Please feel free to look at his github: https://github.com/astjust1.
+Software Developer and recent college graduate, with a Bachelor's of Science in Computer Science and bit of experience in the industry, mostly as a web developer. Currently working on building a software service to help make mental health services more accesible. When not working with technology, time is either spent exercising or digesting a good book. Please feel free to look at his github: https://github.com/astjust1.
 
 ## SKILLS
 
-  - Mobile: iOS Swift Objective-C Android React Native 
-  - Back End: NodeJS ExpressJS PostgresSQL Headless-Architecture Sequelize 
+  - Back End: NodeJS ExpressJS MongoDB SQL 
   - Front End: HTML CSS Javascript Bootstrap AJAX JQuery 
+  - Mobile: iOS Swift Objective-C React Native 
+  - General: C++ Python TravisCI Mocha Chai 
 
 ## EMPLOYMENT
 
-### *Software Developer*, SonarCloud (2016-06 — 2017-01)
+### *Software Developer Intern*, SonarCloud (2016-06 — 2017-01)
 
 SonarCloud leverages the power of technology to modernize PA systems
-  - Implemented features in the iOS app that increased client interaction
+  - Implemented features in their client facing iOS app.(Objective-C/Swift)
   - Supported the CTO and CEO on client installations
   - Developed an internal client management system to increase installation prodictivity by 50%
   - Participated in meetings to discuss product direction
 
-### *Software Development Intern*, Binghamton University Libraries (2015-11 — 2016-05)
 
-Worked on an internal project called the ARMB(Augmented Reality Magic Book)
-  - Worked with a team to engineer an enclosure for the device
-  - Researched and integrated a third party video player to add interactivity
-  - Tested and implemented capacitive touch buttons to work with the video player
+## PROJECTS
 
-### *Residential Consultant*, Binghamton University (2013-08 — 2014-05)
+### *Creator*, [Personal Site](https://itsjustearmond.me) (??? — Present)
 
-Provided computer consultation for a residential building on campus
-  - Managed of all software and network related issues any of the students or faculty residing in the building
-  - Fixed wireless connectivity issues that stem from outdated drivers or problems with DNS settings
-  - Detected hardware failures, such as a failed hard drive
-  - Removed viruses and rootkits that caused various issues on a client's machine
-  - Explained to the client what was done, why, and how to prevent it from happening again
+My Personal Blog. Powered by Jekyll.
+Thought, Emotion, and a bit of dev too.
 
+### *Creator*, [Blog Editor](https://github.com/astjust1/BlogEditor) (??? — Present)
+
+Built from the ground up.
+Links to my github to let me create blog posts on the fly.
+
+### *Creator*, Mental Heath Web App (??? — Present)
+
+
+Working on a web app to help give people better access to mental health services.
 
 
 
@@ -52,16 +54,7 @@ Provided computer consultation for a residential building on campus
 
 ### [Binghamton University](https://www.binghamton.edu/) (2012-09 — 2016-05)
 
-
-
-
-
-
-
-
-
-
-
+ GPA: 2.5
 
 ## INTERESTS
 
