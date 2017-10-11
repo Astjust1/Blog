@@ -3,6 +3,7 @@ layout: post
 title: "Welcome to my Life"
 date: 2017-05-06
 categories: intro thoughts
+blog: personal
 show: false
 ---
    

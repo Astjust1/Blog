@@ -2,8 +2,17 @@
   {
     "text": "Home",
     "url": "/",
-    "icon": "fa-home",
-    "layout": "post"
+    "icon": "fa-home"
+  },
+  {
+    "text": "Dev Blog",
+    "url": "/devBlog",
+    "icon": "fa-terminal"
+  },
+  {
+    "text": "Personal Blog",
+    "url": "/personalBlog",
+    "icon": "fa-hand-spock-o"
   },
   {
     "text": "About",
@@ -18,17 +27,11 @@
   {
     "text": "Resume",
     "url": "/resume/",
-    "icon": "fa-graduation-cap",
+    "icon": "fa-graduation-cap"
   },
   {
     "text": "Github",
     "url": "https://github.com/astjust1",
     "icon": "fa-github"
-  },
-  {
-    "text": "XML Feed",
-    "url": "/feed.xml",
-    "icon": "fa-feed",
-    "target": _blank
   }
 ]

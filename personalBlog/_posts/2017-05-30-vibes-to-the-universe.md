@@ -3,6 +3,7 @@ layout: post
 title: "Vibes to the Universe"
 date: 2017-05-30
 categories: thoughts
+blog: personal
 show: true
 ---
 

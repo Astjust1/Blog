@@ -3,6 +3,7 @@ layout: post
 title: "My Dad has Cancer"
 date: 2017-05-13
 categories: thoughts
+blog: personal
 show: true
 ---
 

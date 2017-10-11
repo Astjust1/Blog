@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "My Personal Site"
+blog: dev
 date: 2017-05-17
 categories: jekyll webDev
 show: true

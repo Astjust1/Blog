@@ -3,6 +3,7 @@ layout: post
 title: "Fragility"
 date: 2017-09-14
 categories: thoughts 
+blog: personal
 show: true
 ---
 

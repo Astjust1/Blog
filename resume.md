@@ -22,39 +22,38 @@ Software Developer and recent college graduate, with a Bachelor's of Science in 
 
 ## EMPLOYMENT
 
-### *Software Developer Intern*, SonarCloud (2016-06 — 2017-01)
+### *Junior Software Engineer*, SonarCloud (2016-06 — 2017-01)
 
-SonarCloud leverages the power of technology to modernize PA systems
-  - Implemented features in their client facing iOS app.(Objective-C/Swift)
-  - Supported the CTO and CEO on client installations
-  - Developed an internal client management system to increase installation prodictivity by 50%
-  - Participated in meetings to discuss product direction
+  * Implemented features in their client facing iOS app using mostly Objective-C, and some Swift in the form of CocoaPods packages.
+  * Supported the CTO and CEO on client installations, by elaborating on technical details and putting them into laymans terms.
+  * Developed an internal CMS using NodeJS and PostgeSQL on the Backend. With JavaScript, HTML/CSS, and Bootstrap on the Frontend. Tied together with a headless architecture pattern.
+  * Participated in meetings to discuss product direction, pointed out flaws in certain aspects of the business model.
+  * Provided alternative business plans with regards to maintaining the product.
+  * Participated in Pair Programming sessions with the CTO.
 
 
 ## PROJECTS
 
-### *Creator*, [Personal Site](https://itsjustearmond.me) (??? — Present)
+### *Creator*, [Personal Site](https://itsjustearmond.me) 
 
-My Personal Blog. Powered by Jekyll.
-Thought, Emotion, and a bit of dev too.
+- Built with Jekyll, hosted on Firebase, with an automated deployment cycle using TravisCI.
+- Thought, Emotion, and a bit of dev too.
 
-### *Creator*, [Blog Editor](https://github.com/astjust1/BlogEditor) (??? — Present)
+### *Creator*, [Blog Editor](https://github.com/astjust1/BlogEditor) 
 
-Built from the ground up.
-Links to my github to let me create blog posts on the fly.
+- Links to my github to let me create blog posts on the fly. Built with NodeJS and Bootstrap.
 
-### *Creator*, Mental Heath Web App (??? — Present)
+### *Creator*, Mental Heath Web App 
 
 
-Working on a web app to help give people better access to mental health services.
+- Working on a web app to help give people better access to mental health services. Using NodeJS and MongoDB and a TDD approach for the backend. With React on the frontend.
 
 
 
 ## EDUCATION
 
-### [Binghamton University](https://www.binghamton.edu/) (2012-09 — 2016-05)
+### [Binghamton University](https://www.binghamton.edu/) (2012-08 — 2016-05)
 
- GPA: 2.5
 
 ## INTERESTS
 
