@@ -15,4 +15,4 @@ But yeah, here's to positive vibes for a starting job, and heres to me moving ou
 
 I wrote this a while ago actually. And I have some more important vibes that I'd like to throw out there. Not just for myself, but for the world as a whole and for my friends and family.
 
-Mainly just positivity as a whole is the vibe that I want to spread. And I don't mean positivity in the sense that everything is rosey and perfect. I want the type of positivity that encompasses and envelops the negativity, not out of denial, but out of understanding. I want more people to be able to see the bad, and within that bad see the good. Be open to more opportunites in whatever form or facet they come. Just stop being so set in their ways. 
+Mainly just positivity as a whole is the vibe that I want to spread. And I don't mean positivity in the sense that everything is rosy and perfect. I want the type of positivity that encompasses and envelops the negativity, not out of denial, but out of understanding. I want more people to be able to see the bad, and within that bad see the good. Be open to more opportunities in whatever form or facet they come. Just stop being so set in their ways.
