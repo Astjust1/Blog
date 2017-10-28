@@ -13,14 +13,12 @@ env:
 sudo: false
 
 before_script:
-- brew update
-- brew upgrade node
 - gem install jekyll html-proofer
 - npm install -g npm@latest 
 - npm install -g firebase-tools
 
 script:
-- bundle exec jekyll build
+- bundle exec jekyll build && htmlproofer ./_site
 
 after_script:
 - firebase deploy --token $FIREBASE_TOKEN
