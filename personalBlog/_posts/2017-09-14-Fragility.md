@@ -5,6 +5,7 @@ date: 2017-09-14
 categories: thoughts 
 blog: personal
 show: true
+permalink: /personalBlog/:title
 ---
 
 This is just a rambling about how fragility affects different aspects of our lives. Based solely on my own personal observations.

@@ -5,6 +5,7 @@ blog: dev
 date: 2017-05-17
 categories: jekyll webDev
 show: true
+permalink: /devBlog/:title
 ---
 
 # How? #

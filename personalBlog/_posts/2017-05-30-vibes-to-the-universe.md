@@ -5,6 +5,7 @@ date: 2017-05-30
 categories: thoughts
 blog: personal
 show: true
+permalink: /personalBlog/:title
 ---
 
 # Let's see if this is true #

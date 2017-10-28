@@ -5,6 +5,7 @@ blog: dev
 date: 2017-10-28
 categories: javaScript es6 misc
 show: true
+permalink: /devBlog/:title
 ---
 # Arrow Functions are fun #
 

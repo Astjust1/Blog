@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: devblog
-title: devblog
-permalink: /category/devblog
+categories: devBlog
+title: DevBlog
+permalink: /category/devBlog
 ---
