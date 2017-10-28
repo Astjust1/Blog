@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: personalBlog
-title: PersonalBlog
-permalink: /category/personalBlog
+categories: personalblog
+title: personalblog
+permalink: /category/personalblog
 ---
