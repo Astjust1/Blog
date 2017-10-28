@@ -31,3 +31,5 @@ markdown: kramdown
 gems: [jekyll-paginate, jekyll-gist]
 
 exclude: [vendor]
+
+future: true
