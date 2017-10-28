@@ -8,7 +8,7 @@ show: true
 ---
 # But I'm procrastinating #
 
-While procrastinating I discovered an amazing font! [Fira-Code](https://github.com/tonsky/FiraCode), is a monospaced font with something called ligatures. Now, I had absolutely no idea what a ligature was until today; so at least my procrastination was somewhat prodictive. Anyway, a typographic ligature is a bit of nifty magic where multiple characters combine into a singular character.
+While procrastinating I discovered an amazing font! [Fira-Code](https://github.com/tonsky/FiraCode), is a mono-spaced font with something called ligatures. Now, I had absolutely no idea what a ligature was until today; so at least my procrastination was somewhat productive. Anyway, a typographic ligature is a bit of nifty magic where multiple characters combine into a singular character.
 
 Here's some normal code:
 
