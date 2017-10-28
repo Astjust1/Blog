@@ -6,12 +6,12 @@
   },
   {
     "text": "Dev Blog",
-    "url": "/devBlog",
+    "url": "/devblog",
     "icon": "fa-terminal"
   },
   {
     "text": "Personal Blog",
-    "url": "/personalBlog",
+    "url": "/personalblog",
     "icon": "fa-hand-spock-o"
   },
   {
