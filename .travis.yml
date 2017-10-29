@@ -21,7 +21,6 @@ script:
 - bundle exec jekyll build 
 
 after_script:
-- firebase hosting:disable
 - firebase deploy --token $FIREBASE_TOKEN
 
 notifications:
