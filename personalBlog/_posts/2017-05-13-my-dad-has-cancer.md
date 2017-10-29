@@ -5,7 +5,7 @@ date: 2017-05-13
 categories: thoughts
 blog: personal
 show: true
-permalink: /personalBlog/:title
+permalink: /personalBlog/:title.html
 ---
 
 # *And it doesn't look good.* #

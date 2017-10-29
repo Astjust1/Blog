@@ -5,7 +5,7 @@ blog: dev
 date: 2017-05-23
 categories: webDev express javaScript thoughts
 show: true
-permalink: /devBlog/:title
+permalink: /devBlog/:title.html
 ---
 
 # Why so restrictive?!?! #
