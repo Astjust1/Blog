@@ -9,6 +9,7 @@ permalink: /personalBlog/:title.html
 ---
 
 # HAPPY HOLIDAYS #
+
 ## Tis the Season ##
 For joy, for cheer, and for reflection. For me, there is quite a lot to reflect on. Plenty of tragedy , but also plenty of happiness. So bear with me, this is gonna be long.
 
