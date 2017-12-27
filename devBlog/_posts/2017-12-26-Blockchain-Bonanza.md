@@ -2,7 +2,7 @@
 layout: post
 title: "Blockchain Bonanza"
 blog: dev
-date: 2017-24-26
+date: 2017-12-26
 categories: blockchain fun
 show: true
 permalink: /devBlog/:title.html
