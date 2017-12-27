@@ -2,7 +2,7 @@
 layout: post
 title: "Reflection"
 blog: personal
-date: 2017-24-26
+date: 2017-12-26
 categories: thoughts
 show: true
 permalink: /personalBlog/:title.html
