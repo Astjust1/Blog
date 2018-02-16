@@ -35,6 +35,6 @@ Now to the code! I'm not going to go through everything, the full code is here [
 
 To provide some more context, every transaction records the transaction preceeding it in the form of a hash. So when the nonce is recorded in the transaction data, it essentially signs that transaction. This makes it nigh impossible to forge the blockchain.
 
-So back to the code! The basic gist, is that while the prefix fails to contain a specific number of 0's corresponding to the `difficulty` agrument being passed to `prefixCheck()`. The function loops and recomputes the hash of the block data using sha256 until the prefixCheck is satisfied. Then we know what the nonce/ signature is, so we apply that to the block, assign the hash, and return the newly signed block to be added to the blockchain!
+So back to the code! The basic gist, is that while the prefix fails to contain a specific number of 0's corresponding to the `difficulty` argument being passed to `prefixCheck()`. The function loops and recomputes the hash of the block data using sha256 until the prefixCheck is satisfied. Then we know what the nonce/ signature is, so we apply that to the block, assign the hash, and return the newly signed block to be added to the blockchain!
 
 So simple! Yet so effective!
