@@ -10,11 +10,6 @@
     "icon": "fa-terminal"
   },
   {
-    "text": "Personal Blog",
-    "url": "/personalBlog",
-    "icon": "fa-hand-spock-o"
-  },
-  {
     "text": "About",
     "url": "/about/",
     "icon": "fa-comments"
