@@ -1,0 +1,12 @@
+{
+    "id": "Armond",
+        "name": "Armond St.Juste",
+            "image": "/logos/avatar.png",
+                "url": "",
+                    "location": "New York, NY",
+                        "bio": "One of the best compliments that I've ever received was this: 'Your personality is a perfect mix of Spider-Man and Deadpool'. I peaked at that moment.",
+                            "socialUrls": [
+                                "https://github.com/astjust1",
+                                "mailto:astjuste423@gmail.com","https://instagram.com/itsjustearmond"
+                            ]
+}

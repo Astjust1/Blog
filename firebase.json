@@ -1,11 +1,12 @@
 {
   "hosting": {
-    "public": "_site",
+    "public": "public",
     "ignore":[
       "firebase.json",
       ".gitignore",
-      "Gemfile",
-      "Gemfile.lock",
+      "package-lock.json",
+      "package.json",
+      "yarn.lock",
       "README.md"
     ]
   }
