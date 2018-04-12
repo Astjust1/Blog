@@ -15,8 +15,6 @@ sudo: false
 before_install:
 - npm install -g firebase-tools
 
-install:
-  - npm install
 script:
 - npm run clean && npm run build
 
