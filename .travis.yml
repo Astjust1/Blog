@@ -13,13 +13,16 @@ env:
 sudo: false
 
 before_install:
-- npm install -g npm@latest 
 - npm install -g firebase-tools
 
 install:
   - npm install
 script:
 - npm run clean && npm run build
+
+cache:
+  directories:
+    - "node_modules"
 
 after_script:
 - firebase deploy --token $FIREBASE_TOKEN
